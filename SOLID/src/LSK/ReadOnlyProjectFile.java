@@ -1,6 +1,6 @@
 package LSK;
 
-public class ReadOnlyProjectFile extends File implements Readable  {
+public class ReadOnlyProjectFile implements Readable  {
 	/*public ReadOnlyProjectFile(String filePath) {
 		super(filePath);
 // TODO Auto-generated constructor stub
