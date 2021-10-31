@@ -1,6 +1,6 @@
 package LSK;
 
-public class ProjectFile extends File implements Readable,Storable{
+public class ProjectFile implements Readable,Storable{
 
 	public ProjectFile(String filePath){
 		super(filePath);
